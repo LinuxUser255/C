@@ -1,2 +1,1 @@
-# C
-Fibonacci number
+/*fibonacci*/
