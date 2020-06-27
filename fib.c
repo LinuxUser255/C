@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*fibonachi*/
+/*fibonacci*/
 
 int main(void) {
 	int x, y, z;
